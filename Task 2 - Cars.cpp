@@ -6,7 +6,7 @@
 
 
 
-    
+// General naming convention for files: filework.h, filework.cpp, person.h, person.cpp, car.h, car.cpp
 
 
 int main() {

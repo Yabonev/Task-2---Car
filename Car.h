@@ -18,7 +18,7 @@ public:
 private:
 
 	Person owner;
-	size_t prodyear;
+	size_t prodyear; // Better naming would be productionYear. Use camelCase.
 	char brand[128];
 	
 };
